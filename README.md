@@ -4,4 +4,4 @@
 - HTML
 - CSS
 - JS
--https://jewcool.github.io/oculus/
+- https://jewcool.github.io/oculus/
